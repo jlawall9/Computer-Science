@@ -2,11 +2,11 @@
 
 ## What idea(s) do you have for your final project?
 
-TODO
+Galiga with a boss battle after a few rounds of the regular version
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
-TODO
+N/A
 
 ## Do you have any questions of your own?
 
